@@ -18,7 +18,7 @@ class RockethubFrame extends Widget
      */
     public function run()
     {
-        $url = Yii::$app->getModule('rockethub')->getServerUrl() . '/livechat/';
+        $url = Yii::$app->getModule('rockethub')->getServerUrl() . '';
         return $this->render('rockethubframe', ['rocketHub' => $url]);
     }
 }
