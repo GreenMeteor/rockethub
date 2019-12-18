@@ -1,6 +1,6 @@
 {
     "id": "rockethub",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "Rocket.Hub",
     "description": "Integrate Rocket.Chat into your HumHub.",
     "humhub": {
